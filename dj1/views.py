@@ -2,7 +2,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 
 def homepage(request):
-    return render(request, 'home.html')
+    return render(request, 'index.html' , {'name':'this is subham ghimire'})
 
 
 def contact(request):
