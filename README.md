@@ -29,6 +29,13 @@
         <li>Check django working</li>
         <p>(py1)C:\Users\subham\projects\projectname>python manage.py runserver</p>
     </ul>
+    <h4>Login to administrator</h4>
+    <nav><ul>
+        <li>Go to localhost http://127.0.0.1:8000/admin</li>
+        <p>login from below ||</p>
+        <li>Create admin login username and password</li>
+        <p>(py1)C:\Users\subham\projects\projectname>python manage.py createsuperuser</p>
+    </ul></nav>
 </nav>
 </body>
 </html>
