@@ -7,3 +7,7 @@ def homepage(request):
 
 def contact(request):
     return HttpResponse('<h2>This is my contact</h2>subham.ghimire26@gmail.com')
+
+
+def about(request):
+    return render(request, 'about.html')
