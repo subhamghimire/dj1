@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Documentation</h1>
-    <p>Before install django make sure you have installed latest version of python.you can download from <a href="https://www.python.org/downloads/" target="_blank">here</a></p>
+    <p>Before install django make sure you have installed latest version of <b>python</b>,you can download from <a href="https://www.python.org/downloads/" target="_blank">here</a></p>
 </body>
 </html>
