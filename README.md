@@ -3,7 +3,7 @@
 <nav>
 	<ul>
 		<li>install virtual environment</li>
-		<li><a ="#down" href="https://docs.djangoproject.com/en/2.1/topics/install/"> install django </a></li>
+		<li><a ="#down" href="https://docs.djangoproject.com/en/2.1/topics/install/" target=_blank> install django </a></li>
 	</ul>
 </nav>
 
