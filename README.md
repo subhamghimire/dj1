@@ -1,14 +1,12 @@
-<h2>Documentation</h2>
-<h3>Installing django on your system</h3>
-<nav>
-	<ul>
-		<li>install virtual environment</li>
-		<li><a ="#down" href="https://docs.djangoproject.com/en/2.1/topics/install/" target:_blank> install django </a></li>
-	</ul>
-</nav>
-
-
-
-<h3>Here how to install on <a href="">Virtualenv</a> </h3>
-<p>
-<p>C:\WINDOWS\system32>pip install virtualenvwrapper-win</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Documentation</h1>
+</body>
+</html>
