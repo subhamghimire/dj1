@@ -1,9 +1,16 @@
 <h1>This is count page</h1>
+
+<a href= " {% url 'home' %} " >Homepage</a>
 <h3>Typed text</h3>
 {{ text }}
 <br>
 <h3>Word count</h3>
 Total words =  {{ words }}
 <br>
+<br>
+{% for word,value in worddictionary %}
 
-{{ worddictionary }}
+{{ word }} = {{ value }}
+<br>
+
+{% endfor %}
