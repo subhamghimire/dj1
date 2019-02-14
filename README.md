@@ -13,7 +13,7 @@
     <ul>
         <li>Installing django on Virtual Environment </li>
         <h4>First setup virtual environment on your system as:</h4>
-        <p>C:\WINDOWS\system32>pip install virtualenvwrapper-win</p>
+        <pre>C:\WINDOWS\system32>pip install virtualenvwrapper-win</pre>
         <h4>Make virtualenv where your project folder will exist: </h4>
         <p>C:\Users\subham\projects>mkvirtualenv py1</p>
         <p>Here, virtual environment named as py1 you can give any name as you want.</p>
