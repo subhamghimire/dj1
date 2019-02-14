@@ -15,19 +15,19 @@
         <h4>First setup virtual environment on your system as:</h4>
         <pre>C:\WINDOWS\system32>pip install virtualenvwrapper-win</pre>
         <h4>Make virtualenv where your project folder will exist: </h4>
-        <p>C:\Users\subham\projects>mkvirtualenv py1</p>
+        <pre>C:\Users\subham\projects>mkvirtualenv py1</pre>
         <p>Here, virtual environment named as py1 you can give any name as you want.</p>
         <h4>Install django on vitual environment</h4>
-        <p>(py1)C:\Users\subham\projects>pip install django</p>
+        <pre>(py1)C:\Users\subham\projects>pip install django</pre>
         <li>Set a project name inside 'projects' folder in this case</li>
         <h4>Set a project name</h4>
-        <p>C:\Users\subham\projects>django-admin startproject projectname</p>
+        <pre>C:\Users\subham\projects>django-admin startproject projectname</pre>
         <p>Here, you can give any name instead of 'projectname'</p>
         <h4>Working on py1 which is a virtual env we have made</h4>
-        <p>C:\Users\subham\projects\projectname>workon py1</p>
-        <p>(py1)C:\Users\subham\projects\projectname></p>
+        <pre>C:\Users\subham\projects\projectname>workon py1</pre>
+        <pre>(py1)C:\Users\subham\projects\projectname></pre>
         <li>Check django working</li>
-        <p>(py1)C:\Users\subham\projects\projectname>python manage.py runserver</p>
+        <pre>(py1)C:\Users\subham\projects\projectname>python manage.py runserver</pre>
     </ul>
     <h4>Login to administrator</h4>
     <nav><ul>
