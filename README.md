@@ -1,6 +1,6 @@
 <html>
     <h1>Documentation</h1>
-    <p>view on github page<a href="https://subhamghimire.github.io/dj1/">here</a></p>
+    <p>view on github page <a href="https://subhamghimire.github.io/dj1/">here</a></p>
     <p>Before install django make sure you have installed latest version of <b>python</b>, you can download from <a href="https://www.python.org/downloads/" target="_blank">here</a>.</p>
 <h3>Let's begin Django installation</h3>
 <nav>
